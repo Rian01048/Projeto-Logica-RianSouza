@@ -1,0 +1,14 @@
+C:\Users\aluno.den\source\repos\projeto3\projeto3\bin\Debug\net8.0\projeto3.exe
+C:\Users\aluno.den\source\repos\projeto3\projeto3\bin\Debug\net8.0\projeto3.deps.json
+C:\Users\aluno.den\source\repos\projeto3\projeto3\bin\Debug\net8.0\projeto3.runtimeconfig.json
+C:\Users\aluno.den\source\repos\projeto3\projeto3\bin\Debug\net8.0\projeto3.dll
+C:\Users\aluno.den\source\repos\projeto3\projeto3\bin\Debug\net8.0\projeto3.pdb
+C:\Users\aluno.den\source\repos\projeto3\projeto3\obj\Debug\net8.0\projeto3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno.den\source\repos\projeto3\projeto3\obj\Debug\net8.0\projeto3.AssemblyInfoInputs.cache
+C:\Users\aluno.den\source\repos\projeto3\projeto3\obj\Debug\net8.0\projeto3.AssemblyInfo.cs
+C:\Users\aluno.den\source\repos\projeto3\projeto3\obj\Debug\net8.0\projeto3.csproj.CoreCompileInputs.cache
+C:\Users\aluno.den\source\repos\projeto3\projeto3\obj\Debug\net8.0\projeto3.dll
+C:\Users\aluno.den\source\repos\projeto3\projeto3\obj\Debug\net8.0\refint\projeto3.dll
+C:\Users\aluno.den\source\repos\projeto3\projeto3\obj\Debug\net8.0\projeto3.pdb
+C:\Users\aluno.den\source\repos\projeto3\projeto3\obj\Debug\net8.0\projeto3.genruntimeconfig.cache
+C:\Users\aluno.den\source\repos\projeto3\projeto3\obj\Debug\net8.0\ref\projeto3.dll
