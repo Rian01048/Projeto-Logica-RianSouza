@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aluno.den\\source\\repos\\projeto3\\projeto3\\projeto3.csproj",
+      "projectUniqueName": "C:\\Users\\aluno.den\\Downloads\\Projeto-Logica-RianSouza\\projeto3\\projeto3\\projeto3.csproj",
       "projectName": "projeto3",
-      "projectPath": "C:\\Users\\aluno.den\\source\\repos\\projeto3\\projeto3\\projeto3.csproj",
+      "projectPath": "C:\\Users\\aluno.den\\Downloads\\Projeto-Logica-RianSouza\\projeto3\\projeto3\\projeto3.csproj",
       "packagesPath": "C:\\Users\\aluno.den\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aluno.den\\source\\repos\\projeto3\\projeto3\\obj\\",
+      "outputPath": "C:\\Users\\aluno.den\\Downloads\\Projeto-Logica-RianSouza\\projeto3\\projeto3\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -16,7 +16,7 @@ public class Program
 
         double soma = notas[0] + notas[1] + notas[2];
         double media = soma / 3;
-        Console.WriteLine($"Média: {media}");
+        Console.WriteLine($"Média: {media:F2}");
         if (media >= 7)
         {
             Console.WriteLine("Aprovado!!");
